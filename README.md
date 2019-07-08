@@ -2,5 +2,5 @@
 ## Companion Repository
 
 This companion repository has a folder for every chapter.  While most chapters
-follow a familiar formulat, each one has its own README.md file to explain any
+follow a familiar format, each one has its own README.md file to explain any
 differences.
